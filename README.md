@@ -1,6 +1,6 @@
 # todolist
 
-## Project setup
+## 项目开始
 ```
 yarn install
 ```
